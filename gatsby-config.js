@@ -5,6 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: `Title grabbed`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
